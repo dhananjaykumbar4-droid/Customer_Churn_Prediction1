@@ -1,1 +1,1 @@
-# Customer_Purchasing_prediction
+# Customer_Churn_prediction
